@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pothanaboina Lavanya</h1>
 <h3 align="center">Aspiring Software Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-girl-gif-2332171326726785246&psig=AOvVaw3vTkEtLpxSBjXEr6Z6flZU&ust=1735127375385000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDSl6urwIoDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pothanaboina-lavanya&label=Profile%20views&color=0e75b6&style=flat" alt="pothanaboina-lavanya" /> </p>
 
