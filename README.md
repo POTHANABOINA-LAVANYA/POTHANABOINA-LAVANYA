@@ -13,6 +13,8 @@
 - 📫 How to reach me **pothanaboinalavanya9818@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qKUYNj0Gue-mzE7iBVv5adgNZN86O69f/view?usp=drivesdk](https://drive.google.com/file/d/1qKUYNj0Gue-mzE7iBVv5adgNZN86O69f/view?usp=drivesdk)
+-  Project:Professional Society Activities Tracking Portal :https://pothanaboina-lavanya.github.io/ACMW-MINIPROJECT/
+-  A Hybrid Optimized Framework For The Classification and Detection of Cardiac Disease : http://localhost:5173/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
