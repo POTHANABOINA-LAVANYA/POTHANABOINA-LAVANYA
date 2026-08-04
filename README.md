@@ -12,15 +12,15 @@
 
 - 📫 How to reach me **pothanaboinalavanya9818@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qKUYNj0Gue-mzE7iBVv5adgNZN86O69f/view?usp=drivesdk](https://drive.google.com/file/d/1qKUYNj0Gue-mzE7iBVv5adgNZN86O69f/view?usp=drivesdk)
+- 📄 Know about my experiences : https://drive.google.com/file/d/1GMNvaKi-y4w1X8O4xQ3o21SyZ7npGJ9X/view?usp=drive_link
 -  Project:Professional Society Activities Tracking Portal :https://pothanaboina-lavanya.github.io/ACMW-MINIPROJECT/
 -  A Hybrid Optimized Framework For The Classification and Detection of Cardiac Disease : http://localhost:5173/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lavanya-pothanaboina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lavanya-pothanaboina/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/plavanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/plavanya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/pothanaboinalavanya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/pothanaboinalavanya/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lavanya-pothanaboina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lavanya-pothanaboina/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/plavanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/plavanya" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Pothanaboina_Lavanya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/pothanaboinalavanya/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
